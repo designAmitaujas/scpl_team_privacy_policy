@@ -1,33 +1,48 @@
-Privacy Policy
+Effective Date: June 6, 2024
 
-Welcome to the SCPL mobile application, provided by SCPL. This Privacy Policy outlines how we handle your personal information when you use our application.
+Introduction
 
-Information Collection
+This Privacy Policy explains how the SCPL TEAM app, designed and developed by Amitaujas LLP for SCPL Organisation, collects, uses, and protects information from users. By using the SCPL TEAM app, you agree to the collection and use of information in accordance with this policy.
 
-When you use our application, we collect personal information from you for the purpose of authentication. This includes your username and password provided during the login process.
+Information We Collect
+
+Personal Information:
+
+Login Credentials: We collect your username and password provided by SCPL for secure access to the App.
+
+Profile Information: Includes your name, subjects taught, and class schedules as part of your teaching role at SCPL.
+
+Usage Data: Information on how you use the App, including features accessed and time spent on the App.
 
 How We Use Your Information
 
-Your username and password are used solely for authentication purposes. We verify your identity using these credentials to grant you access to the features and functionalities of the SCPL application.
+To Provide and Maintain the Service: Ensure the App functions correctly and provide the necessary support.
+To Manage Your Account: Authenticate your login credentials and manage your profile information.
+To Improve the App: Analyze usage data to improve the App’s features and user experience.
 
-Sharing Your Information
+Data Sharing and Security
 
-All data collected during the login process, including your username and password, remains confidential and is not shared with any third parties.
+Data Sharing: We do not sell, trade, or otherwise transfer your personal information to outside parties. All data is securely maintained within the SCPL Organisation.
 
-Data Retention
+Data Security: We implement a variety of security measures to protect your personal information. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
 
-We retain your username for as long as you are an active user of the application. Your password is securely stored in encrypted form and is not accessible to anyone, including SCPL.
+Your Data Rights
 
-Your Choices
+You have the right to:
 
-As a user of the SCPL application, your choice to use the application implies consent to provide your username and password for authentication purposes. Without these credentials, you will be unable to access the features and functionalities offered by the application.
-
-Contact Us
-
-Should you have any questions or concerns regarding our Privacy Policy or data practices, please feel free to reach out to us at design@amitaujas.com. We are here to address any queries you may have.
+Access and Update Information: View and correct your personal information within the App.
+Delete Information: Request deletion of your personal information, subject to legal and operational requirements.
+Restrict Processing: Limit how we use your data under certain circumstances.
 
 Changes to This Privacy Policy
 
-We may periodically update this Privacy Policy to reflect changes in our practices, legal requirements, or for other operational reasons. We encourage you to review this policy periodically for any updates.
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the effective date.
 
-Last updated: 04-06-2024
+Contact Us
+
+If you have any questions about this Privacy Policy, please contact us at:
+
+SCPL
+Email: design@amitaujas.com
+
+By using the SCPL TEAM app, you acknowledge that you have read and understood this Privacy Policy.
