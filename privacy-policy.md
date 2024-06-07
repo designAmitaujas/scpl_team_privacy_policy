@@ -81,11 +81,8 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 Contact Us
 
 If you have any questions about this Privacy Policy, please contact us at:
-
 SCPL TEAM
-
 Vadodara
-
 Email: design@amitaujas.com
 
 Conclusion
