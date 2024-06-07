@@ -1,48 +1,50 @@
-Effective Date: June 6, 2024
+Privacy Policy for SCPL TEAM
+
+Effective Date: 07/06/2024
 
 Introduction
-
-This Privacy Policy explains how the SCPL TEAM app, designed and developed by Amitaujas LLP for SCPL Organisation, collects, uses, and protects information from users. By using the SCPL TEAM app, you agree to the collection and use of information in accordance with this policy.
-
+Welcome to the SCPL TEAM app. This app is developed for SCPL, a coaching institute organization dedicated to helping students prepare for competitive exams. This app is designed and developed by Amitaujas LLP for SCPL Organisation. The SCPL TEAM app is designed for the staff members of SCPL to facilitate various administrative and educational tasks, including staff details, student attendance, and scheduling. Your privacy is important to us, and we are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and share information when you use our app.
 Information We Collect
-
 Personal Information:
-
-Login Credentials: We collect your username and password provided by SCPL for secure access to the App.
-
-Profile Information: Includes your name, subjects taught, and class schedules as part of your teaching role at SCPL.
-
-Usage Data: Information on how you use the App, including features accessed and time spent on the App.
-
-How We Use Your Information
-
-To Provide and Maintain the Service: Ensure the App functions correctly and provide the necessary support.
-To Manage Your Account: Authenticate your login credentials and manage your profile information.
-To Improve the App: Analyze usage data to improve the App’s features and user experience.
-
-Data Sharing and Security
-
-Data Sharing: We do not sell, trade, or otherwise transfer your personal information to outside parties. All data is securely maintained within the SCPL Organisation.
-
-Data Security: We implement a variety of security measures to protect your personal information. However, no method of transmission over the Internet or method of electronic storage is 100% secure.
-
-Your Data Rights
-
-You have the right to:
-
-Access and Update Information: View and correct your personal information within the App.
-Delete Information: Request deletion of your personal information, subject to legal and operational requirements.
-Restrict Processing: Limit how we use your data under certain circumstances.
-
+Staff Details: When staff members log in to the SCPL TEAM app, we collect personal information such as name, email address, phone number, and employee ID.
+Attendance Data:
+We collect attendance data of students attending lectures, which includes the date and time of attendance and the respective staff member marking the attendance.
+Schedule Information:
+We collect and display time schedules for teachers, which include class timings, subjects, and other related information.
+How We Use the Information
+Personal Information:
+To authenticate and authorize staff members to access the app.
+To manage and maintain staff records.
+Attendance Data:
+To track and manage student attendance records.
+To generate attendance reports for administrative purposes.
+Schedule Information:
+To display accurate class schedules to teachers and staff members.
+To facilitate the organization and planning of classes and lectures.
+Sharing of Information
+We do not share your personal information with third parties except in the following circumstances:
+With your consent: We may share information with your consent or at your direction.
+For legal reasons: We may share information to comply with applicable laws, regulations, legal processes, or governmental requests.
+To protect rights and safety: We may share information to protect the rights, property, and safety of SCPL, our users, or others.
+Data Security
+We implement appropriate security measures to protect your information from unauthorized access, alteration, disclosure, or destruction. These measures include encryption, access controls, and secure storage.
+Data Retention
+We retain personal information for as long as necessary to fulfill the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by law.
+Your Rights
+You have the following rights regarding your personal information:
+Access: You can request access to your personal information that we hold.
+Correction: You can request correction of inaccurate or incomplete personal information.
+Deletion: You can request the deletion of your personal information under certain circumstances.
+Objection: You can object to the processing of your personal information under certain circumstances.
+Restriction: You can request the restriction of processing your personal information under certain circumstances.
+To exercise these rights, please contact us using the contact information provided below.
 Changes to This Privacy Policy
-
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the effective date.
-
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 Contact Us
-
 If you have any questions about this Privacy Policy, please contact us at:
+SCPL TEAM
+Vadodara
+design@amitaujas.com
 
-SCPL
-Email: design@amitaujas.com
-
-By using the SCPL TEAM app, you acknowledge that you have read and understood this Privacy Policy.
+Conclusion
+By using the SCPL TEAM app, you agree to the terms of this Privacy Policy. We are committed to protecting your privacy and ensuring the security of your personal information. Thank you for being a part of SCPL.
